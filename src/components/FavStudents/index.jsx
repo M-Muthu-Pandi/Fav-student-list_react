@@ -7,7 +7,7 @@ const FavStudents = (props) => {
 
     return (
         <div className="xl:px-56 lg:px-40 md:px-20">
-            <Header />
+            <Header favBorder={{borderBottom:"2px solid black"}} />
             <FavStudentList favStudents={favStudents} removeFavourite={removeFavourite} />
         </div>
     )

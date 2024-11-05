@@ -7,7 +7,7 @@ const Students = (props) => {
     const favStudents = props.favStudents;
     return (
         <div className="xl:px-56 lg:px-40 md:px-20">
-            <Header />
+            <Header studentBorder={{borderBottom:"2px solid black"}} />
             <StudentList studentList={studentList} addFavourite={addFavourite} favStudents={favStudents} />
         </div>
     )
