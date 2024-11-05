@@ -10,6 +10,10 @@ A responsive React application for managing a list of students, allowing users t
 - **React Router Navigation**: Navigate between the main list and favourites list using routes.
 - **Responsive Design**: Fully optimized for desktop, tablet, and mobile devices.
 
+## Live Demo
+
+Check out the live version of the app [here](https://your-live-demo-link.com).
+
 ## Project Structure
 
 - **`StudentManager.jsx`** - The main component that holds the application state, managing both the student list and the favourites list.
