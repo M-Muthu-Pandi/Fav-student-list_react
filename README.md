@@ -12,7 +12,7 @@ A responsive React application for managing a list of students, allowing users t
 
 ## Live Demo
 
-Check out the live version of the app [here](https://your-live-demo-link.com).
+Check out the live version of the app [here](https://student-manager-react-mu2.vercel.app/).
 
 ## Project Structure
 
